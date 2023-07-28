@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "quickbar"
-version = "0.0.1-post0"
+version = "0.0.2"
 description = "A small python package to make rich progress bars as easy as 1,2,3."
 authors = ["volt-france <arno.veletanlic@volteuropa.org>"]
 readme = "README.md"
